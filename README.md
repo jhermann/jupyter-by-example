@@ -1,6 +1,14 @@
-# jupyter-by-example
+# Jupyter Notebooks by Example
 
 Learning resources and practical tips on how to use Jupyter notebooks for fun &amp; profit.
+
+**Contents**
+
+ * [What is this?](#what-is-this)
+ * [How to use the files in this repository?](#how-to-use-the-files-in-this-repository)
+ * [Links](#links)
+ * [License](#license)
+
 
 ## What is this?
 
