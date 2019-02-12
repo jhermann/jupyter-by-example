@@ -12,17 +12,36 @@ Learning resources and practical tips on how to use Jupyter notebooks for fun &a
 
 ## What is this?
 
-**TODO**
+This is not a Jupyter notebook 101, but expects you to have a working Jupyter environment,
+and the basic experience on how to use it.
+Examples are tested on Linux, behaviour on other platforms might differ.
+
+See the next section on what can be found here,
+including how-tos and complete scenarios for solving typical problems,
+using Pandas and other scientific Python libraries.
 
 
 ## How to use the files in this repository?
 
-**TODO**
+The notebooks are grouped into the following categories:
+
+ * ``setup`` – Jupyter and IPython setup / configuration.
+ * ``how-tos`` – Tips & tricks regarding notebooks and data manipulation.
+ * ``visualization`` – Data visualization how-tos.
+ * ``publish`` – How to publish your results.
+ * ``complete-scenarios`` – Practical examples from start to finish.
+ * ``data`` – Data files used in the example notebooks.
+
+The notebooks state any special requirements you need to install to be able to successfully run them,
+in text or as a comment in the first code cell.
+Consider the [1and1/debianized-jupyterhub](https://github.com/1and1/debianized-jupyterhub)
+project to get a fully working runtime environment on Debian-like platforms,
+with all extensions already installed.
 
 
 ## Links
 
-**TODO**
+ * [jhermann/til-about-data-science](https://github.com/jhermann/til-about-data-science) – Records of what I learned while exploring the waters of Data Science (using Python). Including a [Jupyter](https://github.com/jhermann/til-about-data-science/wiki/Jupyter) wiki page.
 
 
 ## License
