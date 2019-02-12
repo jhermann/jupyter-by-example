@@ -1,6 +1,6 @@
 # Jupyter Notebooks by Example
 
-Learning resources and practical tips on how to use Jupyter notebooks for fun &amp; profit.
+> Learning resources and practical tips on how to use Jupyter notebooks for fun &amp; profit.
 
 **Contents**
 
@@ -13,7 +13,7 @@ Learning resources and practical tips on how to use Jupyter notebooks for fun &a
 ## What is this?
 
 This is not a Jupyter notebook 101, but expects you to have a working Jupyter environment,
-and the basic experience on how to use it.
+and the basic experience of how to use it.
 Examples are tested on Linux, behaviour on other platforms might differ.
 
 See the next section on what can be found here,

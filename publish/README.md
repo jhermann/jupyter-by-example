@@ -2,7 +2,7 @@
 
 There are different ways to publish your notebooks,
 choose one that best fits your concrete situation.
-For example, publishing publically (on teh internet) or
+For example, publishing publically (on the internet) or
 within an organization requires workflows fitting
 the specific environment.
 
