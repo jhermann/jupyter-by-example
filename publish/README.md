@@ -19,3 +19,8 @@ The second command opens your browser with the result (on Linux).
 You can then upload the HTML file to a place where your audience can conveniently retrieve or view it.
 Within a company that can be a shared documentation space (Confluence, Sharepoint, …) or
 a repository server that is able to serve HTML content (e.g. JFrog Artifactory).
+
+
+## More Resources
+
+* [Reporting Generation with Notebooks](https://anaconda.org/jbednar/reporting/notebook) – Part 2 of a 2017 Anaconda webinar on Python data visualization.
