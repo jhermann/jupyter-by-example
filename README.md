@@ -35,7 +35,7 @@ The notebooks are grouped into the following categories:
 The notebooks state any special requirements you need to install to be able to successfully run them,
 in text or as a comment in the first code cell.
 Consider the [1and1/debianized-jupyterhub](https://github.com/1and1/debianized-jupyterhub)
-project to get a fully working runtime environment on Debian-like platforms,
+project to get a fully working runtime environment on Debian-like platforms or in a Docker container,
 with all extensions already installed.
 
 
@@ -44,6 +44,7 @@ with all extensions already installed.
 ### Documentation
 
  * [The Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/) documentation ([Project Jupyter Homepage](https://jupyter.org/))
+ * [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233) · [Part 2: Scheduling Notebooks at Netflix](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
 
 
 ### Related or Similar Projects
