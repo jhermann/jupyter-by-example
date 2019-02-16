@@ -50,6 +50,7 @@ with all extensions already installed.
 ### Related or Similar Projects
 
  * [jhermann/til-about-data-science](https://github.com/jhermann/til-about-data-science) – Records of what I learned while exploring the waters of Data Science (using Python). Including a [Jupyter](https://github.com/jhermann/til-about-data-science/wiki/Jupyter) wiki page.
+ * [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) – “Python Data Science Handbook” with the full text in Jupyter Notebooks.
  * [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) – Dive into Machine learning with Jupyter notebooks and scikit-learn.
  * [jupyter4edu/jupyter-edu-book](https://github.com/jupyter4edu/jupyter-edu-book) – A Handbook for teaching and learning with jupyter.
 
