@@ -1,0 +1,12 @@
+SHA	Author	Date	Message
+8fe0ea9	jhermann	2019-02-16 06:04:19 +0100	:link: Python Data Science Handbook
+9de3457	jhermann	2019-02-16 05:57:50 +0100	add requirements for Binder
+9eb7df9	jhermann	2019-02-16 05:40:55 +0100	viz: nbviewer links
+ed8898f	jhermann	2019-02-15 21:23:05 +0100	minor fix
+bd7143f	jhermann	2019-02-15 20:05:45 +0100	:link: Reporting Generation with Notebooks
+3ad8a96	jhermann	2019-02-15 19:43:57 +0100	visualization README done
+2a2fc8b	jhermann	2019-02-15 17:26:57 +0100	better wording
+962890b	jhermann	2019-02-15 17:17:30 +0100	Altair: use non-random data
+41bb54d	jhermann	2019-02-15 16:58:26 +0100	Altair: Publishing Charts with nbconvert
+834be22	jhermann	2019-02-15 15:28:53 +0100	link to Netflix 'Notebook Innovation' blog post
+714a749	jhermann	2019-02-15 10:40:04 +0100	Altair setup details
