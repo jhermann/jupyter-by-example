@@ -1,7 +1,12 @@
 # Data Visualization How-Tos
 
-See the GitHub file list for notebooks with tips and examples
+This directory contains notebooks with tips and examples
 for the visualization libraries I'm familiar with.
+
+* [Altair / Vega](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/altair.ipynb)
+* [Bokeh](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/bokeh.ipynb)
+* [Seaborn](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/seaborn.ipynb)
+
 
 For the full bouquet of Python visualization solutions,
 watch Jake VanderPlas' talk about
