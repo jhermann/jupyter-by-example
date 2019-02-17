@@ -34,6 +34,8 @@ The notebooks are grouped into the following categories:
 
 The notebooks state any special requirements you need to install to be able to successfully run them,
 in text or as a comment in the first code cell.
+Also, the `requirements.txt` file lists them explicitly, for use with Binder.
+
 Consider the [1and1/debianized-jupyterhub](https://github.com/1and1/debianized-jupyterhub)
 project to get a fully working runtime environment on Debian-like platforms or in a Docker container,
 with all extensions already installed.
