@@ -5,8 +5,8 @@ for the visualization libraries I'm familiar with.
 
 * [Altair / Vega](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/altair.ipynb)
 * [Bokeh](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/bokeh.ipynb)
-* [HoloViews](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/holoviews.ipynb]
-* [Plotly](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/plotly.ipynb]
+* [HoloViews](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/holoviews.ipynb)
+* [Plotly](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/plotly.ipynb)
 * [Seaborn](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/seaborn.ipynb)
 
 
