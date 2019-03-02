@@ -1,11 +1,12 @@
 # Data Visualization How-Tos
 
 This directory contains notebooks with tips and examples
-for the visualization libraries I'm familiar with.
+for the visualization libraries I'm familiar with (or want to be).
 
 * [Altair / Vega](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/altair.ipynb)
 * [Bokeh](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/bokeh.ipynb)
 * [HoloViews](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/holoviews.ipynb)
+* [plotnine](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/plotnine.ipynb)
 * [Plotly](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/plotly.ipynb)
 * [Seaborn](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/visualization/seaborn.ipynb)
 
