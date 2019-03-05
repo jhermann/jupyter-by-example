@@ -28,6 +28,7 @@ The notebooks are grouped into the following categories:
  * ``setup`` – Jupyter and IPython setup / configuration.
  * ``how-tos`` – Tips & tricks regarding notebooks and data manipulation.
  * ``visualization`` – Data visualization how-tos.
+ * ``charts`` – Vocabulary of chart types done with at least one of the common frameworks.
  * ``publish`` – How to publish your results.
  * ``complete-scenarios`` – Practical examples from start to finish.
  * ``data`` – Data files used in the example notebooks.
