@@ -10,9 +10,16 @@ Notebooks in this directory:
 
 ## Learning Resources
 
+### Python for Data Analysis
+
+One of the standard DS books is [Python for Data Analysis](https://books.google.de/books/about/Python_for_Data_Analysis.html?id=BCc3DwAAQBAJ) by Wes McKinney (2nd edition for Python 3.6, 2017, O'Reilly, 550 pages).
+
+A [list of notebooks](https://github.com/wesm/pydata-book#ipython-notebooks) is available in the related GitHub repository.
+
+
 ### Effective Pandas
 
-[Article series](https://leanpub.com/effective-pandas) by Tom Augspurger.
+[Article series](https://leanpub.com/effective-pandas) by Tom Augspurger, available on LeanPub.
 
 * [Introduction](https://nbviewer.jupyter.org/github/TomAugspurger/effective-pandas/blob/master/modern_1_intro.ipynb)
 * [Method Chaining](https://nbviewer.jupyter.org/github/TomAugspurger/effective-pandas/blob/master/modern_2_method_chaining.ipynb)
