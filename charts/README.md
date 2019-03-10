@@ -9,6 +9,6 @@ Notebooks in this directory:
 
 ## Other Resources
 
-* [The Python Graph Gallery>](https://python-graph-gallery.com/)
+* [The Python Graph Gallery](https://python-graph-gallery.com/)
 * [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
   * [Tableau Edition](http://www.vizwiz.com/2018/07/visual-vocabulary.html) · [Power BI Edition](http://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html)
