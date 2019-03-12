@@ -25,3 +25,4 @@ More resources:
 * [pyviz/pyviz](https://github.com/pyviz/pyviz) – How to solve visualization problems with Python tools.
 * [Python Data Visualization 2018: Why So Many Libraries?](https://www.anaconda.com/python-data-visualization-2018-why-so-many-libraries/) (Anaconda blog)
 * [Taming the Python Data Visualization Jungle](https://www.slideshare.net/continuumio/taming-the-python-data-visualization-jungle) (slidedeck, Continuum.io, 11/2017) and the related [Exploring Data with Bokeh and Holoviews](https://anaconda.org/jbednar/exploring_data/notebook) notebook.
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) (free e-book)
