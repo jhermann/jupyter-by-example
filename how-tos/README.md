@@ -11,6 +11,9 @@ Notebooks in this directory:
 
 ## Learning Resources
 
+ * [Kaggle Micro-Courses](https://www.kaggle.com/learn/overview)
+
+
 ### Python for Data Analysis
 
 One of the standard DS books is [Python for Data Analysis](https://books.google.de/books/about/Python_for_Data_Analysis.html?id=BCc3DwAAQBAJ) by Wes McKinney (2nd edition for Python 3.6, 2017, O'Reilly, 550 pages).
