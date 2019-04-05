@@ -6,6 +6,7 @@ Notebooks in this directory:
 * [Cleanup of Raw Data](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/how-tos/cleanup.ipynb)
 * [Data Pipes](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/how-tos/data-pipes.ipynb)
 * [Timeseries](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/how-tos/timeseries.ipynb)
+* [Image Processing](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/how-tos/skimage.ipynb)
 * [GIT](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/how-tos/git.ipynb)
 
 
