@@ -8,6 +8,7 @@ Notebooks in this directory:
 * [Timeseries](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/how-tos/timeseries.ipynb)
 * [Image Processing](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/how-tos/skimage.ipynb)
 * [GIT](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/how-tos/git.ipynb)
+* [JupyterHub](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/how-tos/jupyterhub.ipynb)
 
 
 ## Learning Resources
