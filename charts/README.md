@@ -6,6 +6,7 @@ Notebooks in this directory:
 
 * [Heatmaps](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/charts/heatmaps.ipynb)
 * [Sunburst](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/charts/sunburst.ipynb)
+* [Word Cloud](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/charts/wordcloud.ipynb)
 
 
 ## Other Resources
