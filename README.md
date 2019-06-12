@@ -58,6 +58,7 @@ with all extensions already installed.
  * [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) – Dive into Machine learning with Jupyter notebooks and scikit-learn.
  * [jupyter4edu/jupyter-edu-book](https://github.com/jupyter4edu/jupyter-edu-book) – A Handbook for teaching and learning with Jupyter.
  * [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) – Recipes for using Python's pandas library.
+ * [guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises) – Practice your pandas skills!
 
 
 ## License
