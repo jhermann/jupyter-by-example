@@ -56,7 +56,8 @@ with all extensions already installed.
  * [josephcslater/iPythonExamples](https://github.com/josephcslater/iPythonExamples) – Examples of illustrative Jupyter notebooks for those trying to learn Python.
  * [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) – “Python Data Science Handbook” with the full text in Jupyter Notebooks.
  * [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) – Dive into Machine learning with Jupyter notebooks and scikit-learn.
- * [jupyter4edu/jupyter-edu-book](https://github.com/jupyter4edu/jupyter-edu-book) – A Handbook for teaching and learning with jupyter.
+ * [jupyter4edu/jupyter-edu-book](https://github.com/jupyter4edu/jupyter-edu-book) – A Handbook for teaching and learning with Jupyter.
+ * [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) – Recipes for using Python's pandas library.
 
 
 ## License
