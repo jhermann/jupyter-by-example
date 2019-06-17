@@ -59,6 +59,7 @@ with all extensions already installed.
  * [jupyter4edu/jupyter-edu-book](https://github.com/jupyter4edu/jupyter-edu-book) – A Handbook for teaching and learning with Jupyter.
  * [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) – Recipes for using Python's pandas library.
  * [guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises) – Practice your pandas skills!
+ * [chris1610/pbpython](https://github.com/chris1610/pbpython) – Code, notebooks and examples from “Practical Business Python”.
 
 
 ## License
