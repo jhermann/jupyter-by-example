@@ -5,7 +5,7 @@ and some practical tips on using them.
 
 Notebooks in this directory:
 
- * [todo](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/pandas-charts/todo.ipynb)
+ * [cmasher](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/pandas-charts/cmasher.ipynb)
 
 See also the
 [charts](https://github.com/jhermann/jupyter-by-example/tree/master/charts),
