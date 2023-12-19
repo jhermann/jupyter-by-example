@@ -5,6 +5,7 @@ Working examples for commonly used chart types.
 Notebooks in this directory:
 
 * [Heatmaps](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/charts/heatmaps.ipynb)
+* [Sankey](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/charts/plotly-hierarchical-sankey.ipynb)
 * [Sunburst](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/charts/sunburst.ipynb)
 * [Word Cloud](https://nbviewer.jupyter.org/github/jhermann/jupyter-by-example/blob/master/charts/wordcloud.ipynb)
 
