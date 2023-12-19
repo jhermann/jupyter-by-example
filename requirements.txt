@@ -1,6 +1,6 @@
 # Requirements for Binder
 
-cmasher==1.6.3
+cmasher==1.7.1
 dfply==0.3.3
 
 seaborn==0.11.2
