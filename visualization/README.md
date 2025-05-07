@@ -17,7 +17,7 @@ watch Jake VanderPlas' talk about
 [The Python Visualization Landscape](https://youtu.be/FytuB8nFHPQ) [33 min, PyCon 2017],
 or see the diagram below (adapted from the talk).
 
-![Python's Vizualization Landscape](https://www.anaconda.com/wp-content/uploads/2018/12/PythonVisLandscape.jpg)
+![Python's Vizualization Landscape](https://www.anaconda.com/wp-content/uploads/2018/11/PythonVisLandscape-768x561.jpg)
 
 
 More resources:
