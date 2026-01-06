@@ -5,7 +5,7 @@ dfply==0.3.3
 
 seaborn==0.11.2
 
-bokeh==2.3.3
+bokeh==3.8.2
 psutil==5.8.0
 
 altair==4.1.0
